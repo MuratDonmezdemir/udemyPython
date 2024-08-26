@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PythonVisualKod/.idea/PythonVisualKod.iml" filepath="$PROJECT_DIR$/../PythonVisualKod/.idea/PythonVisualKod.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/udemyPythonProject.iml" filepath="$PROJECT_DIR$/.idea/udemyPythonProject.iml" />
     </modules>
   </component>
