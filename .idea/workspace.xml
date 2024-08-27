@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86c99d30-3846-46e2-b083-fe3afd4da6cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/KarsilastirmaOperatorleri/karsilastirma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mantiksalIfadeler/BoyKiloEndeksiHesaplama.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mantiksalIfadeler/ElifKosulumuz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mantiksalIfadeler/IfElseOrnekCalisma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mantiksalIfadeler/IfveElseKosulu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mantiksalIfadeler/KoronaVirusUygulamasi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mantiksalIfadeler/KullanicidanVeriAlIFveElse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mantiksalIfadeler/MantiksalKodlamaEgzersiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mantiksalIfadeler/orOperatoru.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonVisualKod/ders1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonVisualKod/ders1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KarsilastirmaOperatorleri/EsitDegilOperatoru.py" beforeDir="false" afterPath="$PROJECT_DIR$/KarsilastirmaOperatorleri/EsitDegilOperatoru.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +56,19 @@
   "keyToString": {
     "Python.AlınacakDeger.executor": "Run",
     "Python.AlınacakDegerHatamesaji (1).executor": "Run",
+    "Python.AndOperatoru (1).executor": "Run",
+    "Python.BoyKiloEndeksiHesaplama.executor": "Run",
+    "Python.ElseIfKosulumuz.executor": "Run",
     "Python.EsitDegilOperatoru.executor": "Run",
     "Python.EsittirOperatoru.executor": "Run",
+    "Python.IfElseOrnekCalisma.executor": "Run",
+    "Python.IfveElseKosulu.executor": "Run",
     "Python.KarsilastirmaOperatorleri.executor": "Run",
+    "Python.KoronaVirusUygulamasi.executor": "Run",
     "Python.KullanicidanToplanacakSayiAlma.executor": "Run",
+    "Python.KullanicidanVeriAlIFveElse.executor": "Run",
     "Python.KullanıcıdaUcSayıAlıpToplamYaz.executor": "Run",
+    "Python.MantiksalKodlamaEgzersiz.executor": "Run",
     "Python.c01_degiskenler.executor": "Run",
     "Python.c02_degikenleryasHesaplama.executor": "Run",
     "Python.c03_degisknlrIntStringCevir.executor": "Run",
@@ -65,6 +79,8 @@
     "Python.c06_formatFonksiyonu.executor": "Run",
     "Python.c07_formatFonksiyonu2.executor": "Run",
     "Python.karsilastirma.executor": "Run",
+    "Python.mantiksal.executor": "Run",
+    "Python.orOperatoru.executor": "Run",
     "Python.s01_kullanicidanVeriAlma.executor": "Run",
     "Python.s02_VizeveFinalToplayanUygulama.executor": "Run",
     "Python.s03_Listeler.executor": "Run",
@@ -85,8 +101,8 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.karsilastirma">
-    <configuration name="EsitDegilOperatoru" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.KoronaVirusUygulamasi">
+    <configuration name="BoyKiloEndeksiHesaplama" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="udemyPythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,12 +111,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KarsilastirmaOperatorleri" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mantiksalIfadeler" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KarsilastirmaOperatorleri/EsitDegilOperatoru.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mantiksalIfadeler/BoyKiloEndeksiHesaplama.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EsittirOperatoru" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ElifKosulumuz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="udemyPythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,12 +134,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KarsilastirmaOperatorleri" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mantiksalIfadeler" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KarsilastirmaOperatorleri/EsittirOperatoru.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\LENOVO\PycharmProjects\udemyPythonProject\mantiksalIfadeler\ElifKosulumuz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="KarsilastirmaOperatorleri" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="IfElseOrnekCalisma" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="udemyPythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,12 +157,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KarsilastirmaOperatorleri" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mantiksalIfadeler" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KarsilastirmaOperatorleri/KarsilastirmaOperatorleri.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mantiksalIfadeler/IfElseOrnekCalisma.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="KullanıcıdaUcSayıAlıpToplamYaz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="KoronaVirusUygulamasi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="udemyPythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,12 +180,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mantiksalIfadeler" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KullanıcıdaUcSayıAlıpToplamYaz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mantiksalIfadeler/KoronaVirusUygulamasi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="karsilastirma" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MantiksalKodlamaEgzersiz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="udemyPythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,12 +203,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KarsilastirmaOperatorleri" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mantiksalIfadeler" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KarsilastirmaOperatorleri/karsilastirma.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mantiksalIfadeler/MantiksalKodlamaEgzersiz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.karsilastirma" />
-        <item itemvalue="Python.EsitDegilOperatoru" />
-        <item itemvalue="Python.EsittirOperatoru" />
-        <item itemvalue="Python.KarsilastirmaOperatorleri" />
-        <item itemvalue="Python.KullanıcıdaUcSayıAlıpToplamYaz" />
+        <item itemvalue="Python.KoronaVirusUygulamasi" />
+        <item itemvalue="Python.BoyKiloEndeksiHesaplama" />
+        <item itemvalue="Python.MantiksalKodlamaEgzersiz" />
+        <item itemvalue="Python.ElifKosulumuz" />
+        <item itemvalue="Python.IfElseOrnekCalisma" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +272,7 @@
       <workItem from="1724683288513" duration="6045000" />
       <workItem from="1724750670360" duration="471000" />
       <workItem from="1724751160850" duration="964000" />
-      <workItem from="1724753164266" duration="717000" />
+      <workItem from="1724753164266" duration="5445000" />
     </task>
     <servers />
   </component>
@@ -281,19 +297,29 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/udemyPythonProject$s04_demetler.coverage" NAME="s04_demetler Coverage Results" MODIFIED="1724591270952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$KullanicidanVeriAlIFveElse.coverage" NAME="KullanicidanVeriAlIFveElse Coverage Results" MODIFIED="1724758269180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mantiksalIfadeler" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$KoronaVirusUygulamasi.coverage" NAME="KoronaVirusUygulamasi Coverage Results" MODIFIED="1724761041262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mantiksalIfadeler" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$s02_VizeveFinalToplayanUygulama.coverage" NAME="s02_VizeveFinalToplayanUygulama Coverage Results" MODIFIED="1724588360510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$BoyKiloEndeksiHesaplama.coverage" NAME="BoyKiloEndeksiHesaplama Coverage Results" MODIFIED="1724760512939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mantiksalIfadeler" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$EsittirOperatoru.coverage" NAME="EsittirOperatoru Coverage Results" MODIFIED="1724688364793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KarsilastirmaOperatorleri" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$c05_metniTerseCevirme.coverage" NAME="c05_metniTerseCevirme Coverage Results" MODIFIED="1724583551208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/udemyPythonProject$karsilastirma.coverage" NAME="karsilastirma Coverage Results" MODIFIED="1724753276876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KarsilastirmaOperatorleri" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$karsilastirma.coverage" NAME="karsilastirma Coverage Results" MODIFIED="1724757076910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KarsilastirmaOperatorleri" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$ElseIfKosulumuz.coverage" NAME="ElseIfKosulumuz Coverage Results" MODIFIED="1724759130284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mantiksalIfadeler" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$AlnacakDegerHatamesaji__1_.coverage" NAME="AlınacakDegerHatamesaji (1) Coverage Results" MODIFIED="1724685469921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$stringFonksiyonu.coverage" NAME="stringFonksiyonu Coverage Results" MODIFIED="1724585674781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$c04_buyukharfecevirUpperCapitalize.coverage" NAME="c04_buyukharfecevirUpperCapitalize Coverage Results" MODIFIED="1724589181586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$MantiksalKodlamaEgzersiz.coverage" NAME="MantiksalKodlamaEgzersiz Coverage Results" MODIFIED="1724760308715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mantiksalIfadeler" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$KullancdaUcSayAlpToplamYaz.coverage" NAME="KullanıcıdaUcSayıAlıpToplamYaz Coverage Results" MODIFIED="1724687003297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$mantiksal.coverage" NAME="mantiksal Coverage Results" MODIFIED="1724757199936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mantiksalIfadeler" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$IfveElseKosulu.coverage" NAME="IfveElseKosulu Coverage Results" MODIFIED="1724758068696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mantiksalIfadeler" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$c03_degisknlrIntStringCevir.coverage" NAME="c03_degisknlrIntStringCevir Coverage Results" MODIFIED="1724582326169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$EsitDegilOperatoru.coverage" NAME="EsitDegilOperatoru Coverage Results" MODIFIED="1724753191133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KarsilastirmaOperatorleri" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$AndOperatoru__1_.coverage" NAME="AndOperatoru (1) Coverage Results" MODIFIED="1724757496662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mantiksalIfadeler" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$c01_degiskenler.coverage" NAME="c01_degiskenler Coverage Results" MODIFIED="1724581321029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$s04_demetlerTuple__1_.coverage" NAME="s04_demetlerTuple (1) Coverage Results" MODIFIED="1724591357054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$IfElseOrnekCalisma.coverage" NAME="IfElseOrnekCalisma Coverage Results" MODIFIED="1724758718090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mantiksalIfadeler" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$KullanicidanToplanacakSayiAlma.coverage" NAME="KullanicidanToplanacakSayiAlma Coverage Results" MODIFIED="1724686585790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$orOperatoru.coverage" NAME="orOperatoru Coverage Results" MODIFIED="1724757689630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mantiksalIfadeler" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$c05_buyukKucukswapcase__1_.coverage" NAME="c05_buyukKucukswapcase (1) Coverage Results" MODIFIED="1724583981206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$s05_atamaOperatorleri.coverage" NAME="s05_atamaOperatorleri Coverage Results" MODIFIED="1724684620064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$c07_formatFonksiyonu2.coverage" NAME="c07_formatFonksiyonu2 Coverage Results" MODIFIED="1724586848193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
