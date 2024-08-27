@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86c99d30-3846-46e2-b083-fe3afd4da6cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mantiksalIfadeler/BoyKiloEndeksiHesaplama.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mantiksalIfadeler/ElifKosulumuz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mantiksalIfadeler/IfElseOrnekCalisma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mantiksalIfadeler/IfveElseKosulu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mantiksalIfadeler/KoronaVirusUygulamasi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mantiksalIfadeler/KullanicidanVeriAlIFveElse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mantiksalIfadeler/MantiksalKodlamaEgzersiz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mantiksalIfadeler/orOperatoru.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonVisualKod/ders1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonVisualKod/ders1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -52,55 +44,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.AlınacakDeger.executor": "Run",
-    "Python.AlınacakDegerHatamesaji (1).executor": "Run",
-    "Python.AndOperatoru (1).executor": "Run",
-    "Python.BoyKiloEndeksiHesaplama.executor": "Run",
-    "Python.ElseIfKosulumuz.executor": "Run",
-    "Python.EsitDegilOperatoru.executor": "Run",
-    "Python.EsittirOperatoru.executor": "Run",
-    "Python.IfElseOrnekCalisma.executor": "Run",
-    "Python.IfveElseKosulu.executor": "Run",
-    "Python.KarsilastirmaOperatorleri.executor": "Run",
-    "Python.KoronaVirusUygulamasi.executor": "Run",
-    "Python.KullanicidanToplanacakSayiAlma.executor": "Run",
-    "Python.KullanicidanVeriAlIFveElse.executor": "Run",
-    "Python.KullanıcıdaUcSayıAlıpToplamYaz.executor": "Run",
-    "Python.MantiksalKodlamaEgzersiz.executor": "Run",
-    "Python.c01_degiskenler.executor": "Run",
-    "Python.c02_degikenleryasHesaplama.executor": "Run",
-    "Python.c03_degisknlrIntStringCevir.executor": "Run",
-    "Python.c04_buyukharfecevirUpperCapitalize.executor": "Run",
-    "Python.c04_karakterDizileriPrint.executor": "Run",
-    "Python.c05_buyukKucukswapcase (1).executor": "Run",
-    "Python.c05_metniTerseCevirme.executor": "Run",
-    "Python.c06_formatFonksiyonu.executor": "Run",
-    "Python.c07_formatFonksiyonu2.executor": "Run",
-    "Python.karsilastirma.executor": "Run",
-    "Python.mantiksal.executor": "Run",
-    "Python.orOperatoru.executor": "Run",
-    "Python.s01_kullanicidanVeriAlma.executor": "Run",
-    "Python.s02_VizeveFinalToplayanUygulama.executor": "Run",
-    "Python.s03_Listeler.executor": "Run",
-    "Python.s04_demetler.executor": "Run",
-    "Python.s04_demetlerTuple (1).executor": "Run",
-    "Python.s05_atamaOperatorleri.executor": "Run",
-    "Python.stringFonksiyonu.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.codeium.enabled": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.AlınacakDeger.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AlınacakDegerHatamesaji (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.AndOperatoru (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.BoyKiloEndeksiHesaplama.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ElseIfKosulumuz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EsitDegilOperatoru.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EsittirOperatoru.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IfElseOrnekCalisma.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IfveElseKosulu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.KarsilastirmaOperatorleri.executor&quot;: &quot;Run&quot;,
+    &quot;Python.KoronaVirusUygulamasi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.KullanicidanToplanacakSayiAlma.executor&quot;: &quot;Run&quot;,
+    &quot;Python.KullanicidanVeriAlIFveElse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.KullanıcıdaUcSayıAlıpToplamYaz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MantiksalKodlamaEgzersiz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c01_degiskenler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c02_degikenleryasHesaplama.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c03_degisknlrIntStringCevir.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c04_buyukharfecevirUpperCapitalize.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c04_karakterDizileriPrint.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c05_buyukKucukswapcase (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.c05_metniTerseCevirme.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c06_formatFonksiyonu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c07_formatFonksiyonu2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.karsilastirma.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mantiksal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.orOperatoru.executor&quot;: &quot;Run&quot;,
+    &quot;Python.s01_kullanicidanVeriAlma.executor&quot;: &quot;Run&quot;,
+    &quot;Python.s02_VizeveFinalToplayanUygulama.executor&quot;: &quot;Run&quot;,
+    &quot;Python.s03_Listeler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.s04_demetler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.s04_demetlerTuple (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.s05_atamaOperatorleri.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stringFonksiyonu.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.KoronaVirusUygulamasi">
     <configuration name="BoyKiloEndeksiHesaplama" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="udemyPythonProject" />
@@ -273,6 +265,7 @@
       <workItem from="1724750670360" duration="471000" />
       <workItem from="1724751160850" duration="964000" />
       <workItem from="1724753164266" duration="5445000" />
+      <workItem from="1724768939157" duration="373000" />
     </task>
     <servers />
   </component>
