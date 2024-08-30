@@ -1,16 +1,17 @@
-# This is a sample Python script.
 
-# Press Ctrl+F5 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+for i in range(3):
+     sifre =input("lutfen sıfre belırleyınız :" )
+
+     if not  sifre:
+         print("bu alan bos bırakılamaz....")
+
+     elif len(sifre) in range(3,8)   :
+         print("yenı sıfrenız",sifre)
+         break
+
+     elif i ==2:
+         print("şifreyi 3 defa yanlıs gırdınız lutfen 15 dakıka bekleyınız")
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press F9 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+     else:
+         print("sıfre 8 karakterden uzun yada 3 karakterden kısa")
