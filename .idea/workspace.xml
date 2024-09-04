@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86c99d30-3846-46e2-b083-fe3afd4da6cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Moduller/C01_moduller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moduller/C02_toplanan_Sayilarin_Hesaplamasi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moduller/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DateTimeModulu/C01_DateTimeModul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DateTimeModulu/C02_CEkilisUygulamasi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DateTimeModulu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomOperatoru/C01_RandomOperatoru.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomOperatoru/C02_RandomOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomOperatoru/C03_RandomUniformOperator1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomOperatoru/C04_RandomRastgeleVeriCekme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomOperatoru/C05_RandomShuffle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomOperatoru/C06_RandomSample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomOperatoru/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SifreKorumaliUygulamaYApma/C01_SifreKorumaliUygulamYapma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SifreKorumaliUygulamaYApma/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonVisualKod/ders1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonVisualKod/ders1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/globalVeyerelDegiskenler/S01_TElefonRehberUygulamasi.py" beforeDir="false" afterPath="$PROJECT_DIR$/globalVeyerelDegiskenler/S01_TElefonRehberUygulamasi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,15 +62,24 @@
     "Python.AlınacakDegerHatamesaji (1).executor": "Run",
     "Python.AndOperatoru (1).executor": "Run",
     "Python.BoyKiloEndeksiHesaplama.executor": "Run",
+    "Python.C01_DateTimeModul.executor": "Run",
     "Python.C01_GlobalVeyerelDegiskenler.executor": "Run",
+    "Python.C01_RandomOperatoru.executor": "Run",
+    "Python.C01_SifreKorumaliUygulamYapma.executor": "Run",
     "Python.C01_moduller.executor": "Run",
     "Python.C01_returnIleToplama.executor": "Run",
+    "Python.C02_CEkilisUygulamasi.executor": "Run",
+    "Python.C02_RandomOperator.executor": "Run",
     "Python.C02_SozlukOlusturma.executor": "Run",
     "Python.C02_VarsayilanDegerler.executor": "Run",
     "Python.C02_toplanan_Sayilarin_Hesaplamasi.executor": "Run",
+    "Python.C03_RandomUniformOperator1.executor": "Run",
     "Python.C03_SozlugunIcındekiElementler.executor": "Run",
+    "Python.C04_RandomRastgeleVeriCekme.executor": "Run",
     "Python.C04_SozluklerVeGetMethodu.executor": "Run",
+    "Python.C05_Random.executor": "Run",
     "Python.C05_SozluklerVeGetMethod.executor": "Run",
+    "Python.C06_RandomSample.executor": "Run",
     "Python.C06_SozcuklereVeriEklemeSilme.executor": "Run",
     "Python.C07_SozcuklereVeriEkle.executor": "Run",
     "Python.C08_SozcuktenVeriSilme.executor": "Run",
@@ -80,6 +97,7 @@
     "Python.ForDonguleriAlistirma.executor": "Run",
     "Python.IfElseOrnekCalisma.executor": "Run",
     "Python.IfveElseKosulu.executor": "Run",
+    "Python.Islemler.executor": "Run",
     "Python.KarsilastirmaOperatorleri.executor": "Run",
     "Python.KelimelerinilkHarfiniBulma.executor": "Run",
     "Python.KodlamaEgzersiziKullaniGirisi.executor": "Run",
@@ -127,8 +145,8 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.C02_toplanan_Sayilarin_Hesaplamasi">
-    <configuration name="C01_moduller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.C01_SifreKorumaliUygulamYapma">
+    <configuration name="C01_DateTimeModul" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="udemyPythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,12 +155,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Moduller" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DateTimeModulu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Moduller/C01_moduller.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DateTimeModulu/C01_DateTimeModul.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="C02_toplanan_Sayilarin_Hesaplamasi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_SifreKorumaliUygulamYapma" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="udemyPythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,12 +178,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Moduller" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SifreKorumaliUygulamaYApma" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Moduller/C02_toplanan_Sayilarin_Hesaplamasi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SifreKorumaliUygulamaYApma/C01_SifreKorumaliUygulamYapma.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="C09_SozluklereVeriEkle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_CEkilisUygulamasi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="udemyPythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,12 +201,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/globalVeyerelDegiskenler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DateTimeModulu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/globalVeyerelDegiskenler/C09_SozluklereVeriEkle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DateTimeModulu/C02_CEkilisUygulamasi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="S01_SozcuklerVeriEklemeSilmeDevam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_RandomShuffle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="udemyPythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,12 +224,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/globalVeyerelDegiskenler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RandomOperatoru" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/globalVeyerelDegiskenler/S01_SozcuklerVeriEklemeSilmeDevam.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\LENOVO\PycharmProjects\udemyPythonProject\RandomOperatoru\C05_RandomShuffle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,7 +238,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="S01_TElefonRehberUygulamasi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="C06_RandomSample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="udemyPythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -229,12 +247,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/globalVeyerelDegiskenler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RandomOperatoru" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/globalVeyerelDegiskenler/S01_TElefonRehberUygulamasi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RandomOperatoru/C06_RandomSample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,11 +286,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.C02_toplanan_Sayilarin_Hesaplamasi" />
-        <item itemvalue="Python.C01_moduller" />
-        <item itemvalue="Python.S01_TElefonRehberUygulamasi" />
-        <item itemvalue="Python.C09_SozluklereVeriEkle" />
-        <item itemvalue="Python.S01_SozcuklerVeriEklemeSilmeDevam" />
+        <item itemvalue="Python.C01_SifreKorumaliUygulamYapma" />
+        <item itemvalue="Python.C02_CEkilisUygulamasi" />
+        <item itemvalue="Python.C01_DateTimeModul" />
+        <item itemvalue="Python.C06_RandomSample" />
+        <item itemvalue="Python.C05_RandomShuffle" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +321,8 @@
       <workItem from="1724769564857" duration="1079000" />
       <workItem from="1725026333973" duration="7921000" />
       <workItem from="1725351837037" duration="2023000" />
-      <workItem from="1725353952388" duration="18322000" />
+      <workItem from="1725353952388" duration="18962000" />
+      <workItem from="1725438784060" duration="10553000" />
     </task>
     <servers />
   </component>
@@ -330,11 +349,13 @@
     <SUITE FILE_PATH="coverage/udemyPythonProject$c05_metniTerseCevirme.coverage" NAME="c05_metniTerseCevirme Coverage Results" MODIFIED="1724583551208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$forDonguleriAlistirma2.coverage" NAME="forDonguleriAlistirma2 Coverage Results" MODIFIED="1725030631985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WhileDonguleri/Fordonguleri" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$KullancdaUcSayAlpToplamYaz.coverage" NAME="KullanıcıdaUcSayıAlıpToplamYaz Coverage Results" MODIFIED="1724687003297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$C02_RandomOperator.coverage" NAME="C02_RandomOperator Coverage Results" MODIFIED="1725443832550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RandomOperatoru" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$mantiksal.coverage" NAME="mantiksal Coverage Results" MODIFIED="1724757199936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mantiksalIfadeler" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$c03_degisknlrIntStringCevir.coverage" NAME="c03_degisknlrIntStringCevir Coverage Results" MODIFIED="1724582326169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$EsitDegilOperatoru.coverage" NAME="EsitDegilOperatoru Coverage Results" MODIFIED="1724753191133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KarsilastirmaOperatorleri" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$c01_degiskenler.coverage" NAME="c01_degiskenler Coverage Results" MODIFIED="1724581321029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$IfElseOrnekCalisma.coverage" NAME="IfElseOrnekCalisma Coverage Results" MODIFIED="1724758718090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mantiksalIfadeler" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$C01_DateTimeModul.coverage" NAME="C01_DateTimeModul Coverage Results" MODIFIED="1725445936332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DateTimeModulu" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$C07_SozcuklereVeriEkle.coverage" NAME="C07_SozcuklereVeriEkle Coverage Results" MODIFIED="1725365771374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/globalVeyerelDegiskenler" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$orOperatoru.coverage" NAME="orOperatoru Coverage Results" MODIFIED="1724757689630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mantiksalIfadeler" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$C02_SozlukOlusturma.coverage" NAME="C02_SozlukOlusturma Coverage Results" MODIFIED="1725363603854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/globalVeyerelDegiskenler" />
@@ -346,8 +367,11 @@
     <SUITE FILE_PATH="coverage/udemyPythonProject$c06_formatFonksiyonu.coverage" NAME="c06_formatFonksiyonu Coverage Results" MODIFIED="1724586267661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$s01_kullanicidanVeriAlma.coverage" NAME="s01_kullanicidanVeriAlma Coverage Results" MODIFIED="1724587607418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1725029328568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$C02_CEkilisUygulamasi.coverage" NAME="C02_CEkilisUygulamasi Coverage Results" MODIFIED="1725449548884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DateTimeModulu" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$C08_SozcuktenVeriSilme.coverage" NAME="C08_SozcuktenVeriSilme Coverage Results" MODIFIED="1725366014437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/globalVeyerelDegiskenler" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$C01_RandomOperatoru.coverage" NAME="C01_RandomOperatoru Coverage Results" MODIFIED="1725442736369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RandomOperatoru" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$s04_demetler.coverage" NAME="s04_demetler Coverage Results" MODIFIED="1724591270952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$C06_RandomSample.coverage" NAME="C06_RandomSample Coverage Results" MODIFIED="1725444941149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RandomOperatoru" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$ForDonguleriAlistirma.coverage" NAME="ForDonguleriAlistirma Coverage Results" MODIFIED="1725030066477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WhileDonguleri/Fordonguleri" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$BoyKiloEndeksiHesaplama.coverage" NAME="BoyKiloEndeksiHesaplama Coverage Results" MODIFIED="1724760512939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mantiksalIfadeler" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$s02_VizeveFinalToplayanUygulama.coverage" NAME="s02_VizeveFinalToplayanUygulama Coverage Results" MODIFIED="1724588360510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -360,11 +384,14 @@
     <SUITE FILE_PATH="coverage/udemyPythonProject$WhileDongu1.coverage" NAME="WhileDongu1 Coverage Results" MODIFIED="1725026779033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WhileDonguleri" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$AlnacakDegerHatamesaji__1_.coverage" NAME="AlınacakDegerHatamesaji (1) Coverage Results" MODIFIED="1724685469921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$stringFonksiyonu.coverage" NAME="stringFonksiyonu Coverage Results" MODIFIED="1724585674781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$Islemler.coverage" NAME="Islemler Coverage Results" MODIFIED="1725441880413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduller" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$c04_buyukharfecevirUpperCapitalize.coverage" NAME="c04_buyukharfecevirUpperCapitalize Coverage Results" MODIFIED="1724589181586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$C06_SozcuklereVeriEklemeSilme.coverage" NAME="C06_SozcuklereVeriEklemeSilme Coverage Results" MODIFIED="1725365486763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/globalVeyerelDegiskenler" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$C01_returnIleToplama.coverage" NAME="C01_returnIleToplama Coverage Results" MODIFIED="1725354266000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/returnKomutu" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$MantiksalKodlamaEgzersiz.coverage" NAME="MantiksalKodlamaEgzersiz Coverage Results" MODIFIED="1724760308715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mantiksalIfadeler" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$C08_kodlamaEgzersizSuTuketimi.coverage" NAME="C08_kodlamaEgzersizSuTuketimi Coverage Results" MODIFIED="1725353562328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$C03_RandomUniformOperator1.coverage" NAME="C03_RandomUniformOperator1 Coverage Results" MODIFIED="1725444210889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RandomOperatoru" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$C04_RandomRastgeleVeriCekme.coverage" NAME="C04_RandomRastgeleVeriCekme Coverage Results" MODIFIED="1725444377985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RandomOperatoru" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$IfveElseKosulu.coverage" NAME="IfveElseKosulu Coverage Results" MODIFIED="1724758068696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mantiksalIfadeler" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$C05_SozluklerVeGetMethod.coverage" NAME="C05_SozluklerVeGetMethod Coverage Results" MODIFIED="1725364780986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/globalVeyerelDegiskenler" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$C09_SozluklereVeriEkle.coverage" NAME="C09_SozluklereVeriEkle Coverage Results" MODIFIED="1725367089799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/globalVeyerelDegiskenler" />
@@ -373,12 +400,14 @@
     <SUITE FILE_PATH="coverage/udemyPythonProject$s04_demetlerTuple__1_.coverage" NAME="s04_demetlerTuple (1) Coverage Results" MODIFIED="1724591357054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$C01_moduller.coverage" NAME="C01_moduller Coverage Results" MODIFIED="1725373716478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduller" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$C02_toplanan_Sayilarin_Hesaplamasi.coverage" NAME="C02_toplanan_Sayilarin_Hesaplamasi Coverage Results" MODIFIED="1725374220652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduller" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$C05_Random.coverage" NAME="C05_Random Coverage Results" MODIFIED="1725444572488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RandomOperatoru" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$Fonsiyonlar2.coverage" NAME="Fonsiyonlar2 Coverage Results" MODIFIED="1725035271541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FonksiyonlaraGiris" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$KullanicidanToplanacakSayiAlma.coverage" NAME="KullanicidanToplanacakSayiAlma Coverage Results" MODIFIED="1724686585790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$s05_atamaOperatorleri.coverage" NAME="s05_atamaOperatorleri Coverage Results" MODIFIED="1724684620064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$S01_SozcuklerVeriEklemeSilmeDevam.coverage" NAME="S01_SozcuklerVeriEklemeSilmeDevam Coverage Results" MODIFIED="1725366364051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/globalVeyerelDegiskenler" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$KelimelerinilkHarfiniBulma.coverage" NAME="KelimelerinilkHarfiniBulma Coverage Results" MODIFIED="1725029919466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WhileDonguleri/Fordonguleri" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$KarsilastirmaOperatorleri.coverage" NAME="KarsilastirmaOperatorleri Coverage Results" MODIFIED="1724688325627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KarsilastirmaOperatorleri" />
+    <SUITE FILE_PATH="coverage/udemyPythonProject$C01_SifreKorumaliUygulamYapma.coverage" NAME="C01_SifreKorumaliUygulamYapma Coverage Results" MODIFIED="1725452306923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SifreKorumaliUygulamaYApma" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$C03_SozlugunIcndekiElementler.coverage" NAME="C03_SozlugunIcındekiElementler Coverage Results" MODIFIED="1725363810348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/globalVeyerelDegiskenler" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$C01_GlobalVeyerelDegiskenler.coverage" NAME="C01_GlobalVeyerelDegiskenler Coverage Results" MODIFIED="1725362966232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/globalVeyerelDegiskenler" />
     <SUITE FILE_PATH="coverage/udemyPythonProject$AlnacakDeger.coverage" NAME="AlınacakDeger Coverage Results" MODIFIED="1724684633304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
